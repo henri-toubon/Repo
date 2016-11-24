@@ -2,6 +2,6 @@
 
 int main(int argc, char* argv[])
 {
-   printf("DevOriginTrack\n");
+   printf("DevOrigin\n");
    return 0;
 }
